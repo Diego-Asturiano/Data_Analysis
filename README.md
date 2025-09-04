@@ -33,7 +33,7 @@ The goal of this repository is to build a **portfolio specialized in data analys
 
 ---
 
-## 📬 Contact
+## 📬 Get in Touch
 Connect with me on **[LinkedIn](https://www.linkedin.com/in/diego-asturiano-calva-098943329/)** to see more projects or discuss data analysis collaborations.  
 
 ---
